@@ -1,0 +1,7 @@
+debug.log
+__pycache__
+env/bin env/include env/lib env/lib64 env/pyvenv.cfg
+_pycache__/**
+db.sqlite3
+.idea
+.vscode
